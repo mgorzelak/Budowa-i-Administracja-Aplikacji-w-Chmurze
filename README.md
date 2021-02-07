@@ -24,3 +24,27 @@ Dzialajaca aplikacja:
 link do dzialajacego sampla na heroku
 
 https://bpwsbapp1.herokuapp.com/
+
+Instrukcja
+
+Aplikacja ma za zadanie wysyłać wiadomości mail rss do adresatów i z linkami zebranymi w bazie. Bazę adresatow i linków można uzupełniać z frontu.
+
+Dla prawidłowego działania wymagane jest skonfigurowanie kilku plików zgodnie z utworzoną bazą oraz samo utworzenie bazy. Szczegóły poniżej
+
+Pliki wymagające konfiguracji:
+
+connection.php
+
+send_mail.php
+
+Konfiguracja serwera MySql i tworzenie bazy
+
+Nazwa bazy i uzytkownika podane są jako przykładowe, mogą być dowolne.
+
+a) zaloguj się do https://portal.azure.com/
+
+b) w pasku wyszukiwania wpisz mysql i wybierz „Serwer usługi Azure Database dla 	MySQL”
+
+
+
+
