@@ -19,3 +19,8 @@ Przycisk Preview który będzie requestował do backendu o zbudowanie takiego ma
 2. Backend
 moduł do zapisywania linków do bazy
 moduł, który buduje maile w formie html'a
+
+Dzialajaca aplikacja:
+link do dzialajacego sampla na heroku
+
+https://bpwsbapp1.herokuapp.com/
